@@ -530,6 +530,9 @@ var (
 
 		// Michael Stonebraker is a database research pioneer and architect of Ingres, Postgres, VoltDB and SciDB. Winner of 2014 ACM Turing Award. https://en.wikipedia.org/wiki/Michael_Stonebraker
 		"stonebraker",
+		
+		// Bjarne Stroustrup is a Danish computer scientist, most notable for the creation and development of the widely used C++ programming language. https://en.wikipedia.org/wiki/Bjarne_Stroustrup
+		"stroustrup",
 
 		// Janese Swanson (with others) developed the first of the Carmen Sandiego games. She went on to found Girl Tech. https://en.wikipedia.org/wiki/Janese_Swanson
 		"swanson",
